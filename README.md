@@ -54,8 +54,8 @@
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
-$ cd little-lemon-restaurant
+$ git clone https://github.com/MuskaanAAggarwal/Little-Lemon/.git
+$ cd Little-Lemon
 $ npm install
 ```
 
